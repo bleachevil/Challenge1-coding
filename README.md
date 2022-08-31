@@ -1,5 +1,8 @@
 # Challenge1-coding
-## Review the code to meet accessiblity standards
+## Review the code to meet accessiblity standards.
+below is the view of the website
+
+https://bleachevil.github.io/Challenge1-coding/
 
 ### semantic HTML elements
 #### instead of use the div to seperate each section, i changed the startup based on the following structure.
