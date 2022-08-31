@@ -43,7 +43,7 @@ https://bleachevil.github.io/Challenge1-coding/
 ## structure of the HTML elements
 #### after change the code structure based on the sematic HTML elements, we need to modify the style.css by changing the class selector to element selector based on the HTML strcucture
 
-### Below are the following change::
+### Below are the following change:
 
 #### Orginal code for Header
 ![](https://github.com/bleachevil/Challenge1-coding/blob/main/pic/2-2.png?raw=true)
