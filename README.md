@@ -83,3 +83,7 @@
 #### NEW code
 ![](https://github.com/bleachevil/Challenge1-coding/blob/main/pic/4-5.png?raw=true)
 
+### review the icon and image elements
+#### some codes were duplicated and we are able to combine them by using one selector in style.css
+
+## Below are the following change:
