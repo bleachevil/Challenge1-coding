@@ -5,7 +5,7 @@ below is the view of the website
 https://bleachevil.github.io/Challenge1-coding/
 
 ## semantic HTML elements
-#### instead of use the div to seperate each section, i changed the startup based on the following structure.
+#### instead of use the div to seperate each section, i changed the startup code based on the following structure.
 ![](https://github.com/bleachevil/Challenge1-coding/blob/main/pic/1.png?raw=true)
 
 ### Below are the following change:
